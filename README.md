@@ -1,0 +1,1 @@
+# test_trigger_azure_function_new
